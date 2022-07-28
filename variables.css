@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+:root {
+    --primary-color: #FF3300;
+    --secondary-color: #1F2235;
+    --input-border-color: #EAEAEA;
+    --base-color: #FFF;
+
+    --my-1: 1rem;
+    --my-2: 2rem;
+    --my-3: 3rem;
+    --my-4: 4rem;
+    --my-5: 5rem;
+    
+    --mx-1: 1rem;
+    --mx-2: 2rem;
+    --mx-3: 3rem;
+    --mx-4: 4rem;
+    --mx-5: 5rem;
+
+    --container-size: 90%;
+
+    --default-font: 16px;
+    --subtitle-font: 20px;
+    --heading-font: 25px;
+}
